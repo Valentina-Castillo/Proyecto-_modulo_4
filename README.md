@@ -321,9 +321,7 @@ Tableau Desktop Public Edition
 
 Kaggle (fuente de datos)
 
-Procesamiento y limpieza de datos
-
-Diseño gráfico personalizado
+Python
 
 Integración multimedia
 
